@@ -1,13 +1,21 @@
+/*
+!/src/
+
 **/packages/
 /packages/
 /*
+*.log
+*.tmp
+venv/*
+
 
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 
-venv\**
+venv\
 
 */venv/*
 venv/
+
